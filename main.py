@@ -69,6 +69,6 @@ def load_image(model):
 
 if __name__ == '__main__':
 
-    st.title('Распознавание котиков и собачег')
+    st.title('Классификация изображений')
     model = load_model()
     load_image(model)
