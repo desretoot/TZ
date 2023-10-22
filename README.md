@@ -1,6 +1,6 @@
 # TZ
 Ссылка на colab: https://colab.research.google.com/drive/1i7r70Pdy0FoR1OirTaGyXy-sEZ2izfbs?usp=sharing
-
+Предобработка данных и обучение модели оформлено в google colab, web-приложение реализовано в файле main.py
 ## Скриншоты работы приложения:
 
 ![qTdiqFYwHh8](https://github.com/desretoot/TZ/assets/114093741/69498763-eed2-4a0d-8df6-22ce6a4c12ea)
